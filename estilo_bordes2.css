@@ -1,0 +1,52 @@
+*   {
+    background-color: rgb(24, 105, 24);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1  {
+    font-size: 300%;
+    text-shadow: black 5px ;
+    color: white;
+}
+
+p.uno   {
+    font-size: 150%;
+    padding: 5mm;
+    margin: 1cm 10cm;
+    text-align: justify;
+    background-color: white;
+    border: black 5px solid ;
+    border-radius: 20px;
+}
+
+p.dos   {
+    color: white;
+    font-size: 150%;
+    padding: 2mm;
+    background-color: rgb(182, 98, 38);
+    border: saddlebrown 20px solid;
+    border-top-left-radius: 20px ;
+    border-bottom-left-radius: 20px;
+    text-align: left;
+    margin-right: 50%;
+}
+
+p.tres   {
+    color: white;
+    font-size: 150%;
+    padding: 1cm 2mm ;
+    background-color: rgb(182, 144, 38);
+    border: rgb(141, 117, 9) 20px solid;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: right;
+    margin-left: 50%;
+}
+p.cuatro  {
+    text-align: justify;
+    margin: 1mm 10cm;
+    color: white;
+    background-color: blue;
+    border: rgb(21, 97, 122) 7px dashed;
+    padding: 2mm;
+}
